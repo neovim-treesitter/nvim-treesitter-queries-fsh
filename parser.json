@@ -1,8 +1,7 @@
 {
-  "semver": false,
   "url": "https://github.com/mgramigna/tree-sitter-fsh",
   "lang": "fsh",
-  "min_version": null,
-  "max_version": null,
-  "location": null
+  "parser_version": "fad2e175099a45efbc98f000cc196d3674cc45e0",
+  "location": null,
+  "semver": false
 }
